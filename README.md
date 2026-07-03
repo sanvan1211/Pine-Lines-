@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/pine-lines-banner.png" alt="Pine Lines — finance, business, AI/tech, economics, and more" width="100%">
+<img src="https://raw.githubusercontent.com/sanvan1211/Pine-Lines-/main/pine-lines-banner.png" alt="Pine Lines — finance, business, AI/tech, economics, and more" width="100%">
 
 <br>
 
