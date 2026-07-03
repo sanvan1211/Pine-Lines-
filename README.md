@@ -12,11 +12,9 @@
 
 ## What is Pine Lines?
 
-One night I came across Pine Script while lying in bed, half-scrolling, half-bored. I started messing around with it just to see what it could do, and ended up genuinely hooked — there's something satisfying about writing a few lines of code and watching an indicator light up on a live chart.
+One night I came across Pine Script while lying in bed, half-scrolling, half-bored. I started messing around with it just to see what it could do, and ended up hooked
 
-That curiosity turned into Pine Lines: a newsletter where I break down Pine Script and TradingView for anyone else who thinks markets + code is a cool combination. No finance degree required, no gatekeeping — just clear explanations, real examples you can copy into the Pine Editor, and the occasional deep dive into whatever's happening in markets, business, and AI that week.
-
-I'm not a financial advisor, a professional trader, or a computer science major — I'm a high schooler who fell down a rabbit hole and wanted to bring other people along for it.
+That curiosity turned into Pine Lines: a newsletter where I break down Pine Script and TradingView for anyone else who thinks markets + code is a cool combination. No finance degree required, no gatekeeping, just clear explanations, real examples you can copy into the Pine Editor, and the occasional deep dive into whatever's happening in markets, business, and AI that week.
 
 ## 📬 Read the newsletter
 
