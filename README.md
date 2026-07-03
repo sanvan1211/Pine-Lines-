@@ -14,7 +14,7 @@
 
 One night I came across Pine Script while lying in bed, half-scrolling, half-bored. I started messing around with it just to see what it could do, and ended up hooked
 
-That curiosity turned into Pine Lines: a newsletter where I break down Pine Script and TradingView for anyone else who thinks markets + code is a cool combination. No finance degree required, no gatekeeping, just clear explanations, real examples you can copy into the Pine Editor, and the occasional deep dive into whatever's happening in markets, business, and AI that week.
+That curiosity turned into Pine Lines: a newsletter where I break down Pine Script (+ Python) and TradingView for anyone else who thinks markets and code is a cool combination. No finance degree required, no gatekeeping, just clear explanations, real examples you can copy into the Pine Editor, and the occasional deep dive into whatever's happening in markets, business, and AI that week.
 
 ## 📬 Read the newsletter
 
@@ -26,7 +26,6 @@ New issues cover:
 - 🌲 Pine Script tutorials, line by line
 - 📈 TradingView indicators and strategies
 - 💵 "This Week in Finance" — markets, business, and economics commentary
-- 🤖 AI/tech, when it intersects with the above
 
 ## 📁 What's in this repo
 
