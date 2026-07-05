@@ -33,8 +33,8 @@ This repo holds standalone, self-contained HTML versions of select Pine Lines is
 
 | File | Issue |
 |---|---|
-| [`hello-world-in-pine-script.html`](./hello-world-in-pine-script.html) | "Hello, World" In Pine Script — the fundamentals: syntax, functions, data types, variables|
-| [`indicators-in-pine-script.html`](./indicators-in-pine-script.html) | Indicators in Pine Script — trend/momentum/volatility indicators + a Stochastic Oscillator walkthrough |
+| [`hello-world-in-pine-script.html`](./hello-world-in-pine-script.html) | "Hello, World" In Pine Script: the fundamentals: syntax, functions, data types, variables|
+| [`indicators-in-pine-script.html`](./indicators-in-pine-script.html) | Indicators in Pine Script: trend/momentum/volatility indicators + a Stochastic Oscillator walkthrough |
 
 Each file is a single HTML document — just open it in a browser, no build step or dependencies needed.
 
