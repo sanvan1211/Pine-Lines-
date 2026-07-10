@@ -7,7 +7,6 @@
 [![Substack](https://img.shields.io/badge/Substack-Read%20Pine%20Lines-1f5c3f?style=for-the-badge&logo=substack&logoColor=white)](https://pinelines.substack.com)
 
 </div>
-
 <br>
 
 ## What is Pine Lines?
