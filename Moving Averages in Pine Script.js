@@ -2,6 +2,7 @@
 //©pinelines
 
 //Note: GitHub doesn't currently support Pine Script syntax highlighting, so all .pine files are formatted as JavaScript (.js) since it's the closest supported language and provides the most readable syntax highlighting.
+//This (JavaScript) format leaves currnent Pine Script unchanged
 
 //SMA- Simple Moving Average
 indicator("Simple Moving Average", overlay=true)
