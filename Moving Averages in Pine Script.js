@@ -43,3 +43,7 @@ histogram  = macdLine - signalLine
 plot(macdLine, color=color.blue, title="MACD Line")
 plot(signalLine, color=color.red, title="Signal Line")
 plot(histogram, color=color.gray, style=plot.style_columns, title="Histogram")
+
+// Arnaud Legoux Moving Average (ALMA) - Uses gaussian distribution to reduce noise while minimizing latency 
+alma = ta.alma(close, 20, 0.85, 6)
+plot(alma, color=color.purple)
