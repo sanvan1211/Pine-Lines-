@@ -8,7 +8,6 @@
 
 </div>
 <br>
-
 ## What is Pine Lines?
 
 One night I came across Pine Script while lying in bed, half-scrolling, half-bored. I started messing around with it just to see what it could do, and ended up hooked
