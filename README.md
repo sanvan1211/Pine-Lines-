@@ -17,7 +17,7 @@ That curiosity turned into Pine Lines: a newsletter where I break down Pine Scri
 
 ## 📬 Read the newsletter
 
- [pinelines.substack.com](https://pinelines.substack.com)**
+ **[pinelines.substack.com](https://pinelines.substack.com)**
 
 New issues cover:
 - 🌲 Pine Script tutorials, line by line
