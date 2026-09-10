@@ -39,4 +39,4 @@ Each file is a single HTML document — just open it in a browser, no build step
 
 Pine Lines is written and maintained by **Sanhith Vandara**. If you're into Pine Script, trading, or just want to see someone learn this stuff in public, come check it out [Substack](https://pinelines.substack.com).
 
-Also check out Pine Lines on : [https://x.com/pinelines_]([url](https://x.com/pinelines_))
+Also check out Pine Lines on : https://x.com/pinelines_
