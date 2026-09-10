@@ -37,6 +37,8 @@ Each file is a single HTML document — just open it in a browser, no build step
 
 ## 🌲 About
 
-Pine Lines is written and maintained by **Sanhith Vandara**. If you're into Pine Script, trading, or just want to see someone learn this stuff in public, come check it out [Substack](https://pinelines.substack.com).
+Pine Lines is written and maintained by **Sanhith Vandara**. If you're into Pine Script, trading, or the world of finance and programming, check it out here: [Substack](https://pinelines.substack.com).
 
 Also check out Pine Lines on X : https://x.com/pinelines_
+
+(its all free and open source) 
